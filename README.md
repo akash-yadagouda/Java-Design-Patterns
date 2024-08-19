@@ -1,2 +1,3 @@
 # Java-Design-Patterns
-Hiiii! Dont open this repo.
+Hiiii! Started working on this repo!!!! 
+Keep in touch
